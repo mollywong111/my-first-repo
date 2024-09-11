@@ -1,7 +1,12 @@
 body {
     background-color: lightblue;
-    color:yellow;
+    color:rgb(52, 45, 45);
 }
 h1 {
-    color:pink
+    color:rgb(218, 93, 114)
+}
+main {
+     background-color:white;
+     width:70%;
+     margin:0 auto;
 }
